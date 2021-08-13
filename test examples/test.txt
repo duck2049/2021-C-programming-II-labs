@@ -1,0 +1,29 @@
+-------number list:-----------      
+1. 1.1
+2. 1.2
+    1. 2.1
+    2. 2.2
+3.fakeline  
+--------title-----------
+# title1
+## title2
+  # title with blanks
+#fake title  
+--------dash---------
+- 1.1
+- 1.2
+    - 2.1
+    - 2.2  
+-fakeline
+
+### title3
+#### title4
+##### title5
+###### title6
+---------line------------      
+<u>~~***bold and italic***~~</u> 
+this is **bold** line    
+this is *italic* line    
+this is ~~delete~~ line    
+this is ![img](link)   
+this is [we*bs*ite](link)
